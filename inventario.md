@@ -5,3 +5,4 @@
 Elettronica Padovana
 componenti 
 periferiche
+-tastiere.md 
